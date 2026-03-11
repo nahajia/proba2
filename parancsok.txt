@@ -1,0 +1,16 @@
+git clone https://github.com/nahajia/proba2.git
+
+
+git add .
+git commit -m "valami"
+git push
+
+
+
+
+
+
+
+
+
+git pull
